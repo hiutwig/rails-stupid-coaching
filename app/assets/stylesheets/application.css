@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  margin: 0;
+  font-family: "Varela", sans-serif;
+  margin-top: 50px;
+}
+h1 {
+  font-family: "Varela", sans-serif;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  font-size: 26px;
+  text-align: center;
+}
